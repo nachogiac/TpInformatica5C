@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background-color: #ebebeb;
+}
+.logo{
+    width: 4%;  
+    margin-right: 5%;  
+}
+h1{
+    display: inline;
+    font-size: 50px;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    max-width: 80%;
+    text-align: center;
+    margin: 3rem  0;
+}
+aside{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conclusion{
+    margin-top: 3rem;
+}
+main section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h2{
+    display: inline-block;
+    text-align: left;
+    width: 70%;
+    margin: 2% 0;
+}
+.text{
+    display: inline-block;
+    text-align: justify;
+    width: 60%;
+}
+main article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+footer{
+    display: flex;
+    width: 100%;
+    padding: 1rem;
+    background-color: #79adfa;
+    margin-top: 2rem;
+}
+
+.navbar{
+    padding: 1rem;
+}
+#carouselExampleControls{
+    margin-top: 2rem;
+    width: 65%;
+}
